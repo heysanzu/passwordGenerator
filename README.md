@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="typing" width="800">
+</p>
+
 ## Strong Password Generator
 A Python script that generates cryptographically strong random passwords with customizable length.
 
