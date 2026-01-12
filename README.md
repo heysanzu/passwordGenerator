@@ -15,8 +15,8 @@ A Python script that generates cryptographically strong random passwords with cu
 ### Usage
 Run the script:
 
-```bash
-python password_generator.py
+```python
+python passwordGenerator.py
 ```
 
 Follow the prompts to:
@@ -26,7 +26,7 @@ Follow the prompts to:
 
 ### Example
 
-```
+```python
 Strong Password Generator
 
 Enter password length (minimum 8, recommended 16+): 16
